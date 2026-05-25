@@ -1,7 +1,8 @@
 name: mediapipeline_flutter
-description: "A new Flutter project."
+description: "A Flutter plugin for building **MediaPipe-powered vision pipelines** with native Android performance"
 version: 0.0.1
-homepage:
+homepage: https://github.com/NafimAhmed/mediapipeline_flutter
+repository: https://github.com/NafimAhmed/mediapipeline_flutter
 
 environment:
   sdk: ^3.8.1
